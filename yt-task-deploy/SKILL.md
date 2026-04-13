@@ -35,7 +35,7 @@ agent_meta:
   - добавляем запись в `status_history`
 
 3. Активируем ветку.
-f
+
 4. Поднимаем docker compose.
 
 5. Проверяем:
